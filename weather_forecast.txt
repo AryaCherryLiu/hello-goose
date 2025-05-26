@@ -1,7 +1,7 @@
 🌤 Overnight:
 Temperature: 53°F
-Wind: 8 mph W
-Forecast: Mostly cloudy, with a low around 53. West wind around 8 mph.
+Wind: 7 mph W
+Forecast: Mostly cloudy, with a low around 53. West wind around 7 mph.
 ---
 
 🌤 Memorial Day:

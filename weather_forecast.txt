@@ -1,5 +1,3 @@
-Weather forecast for San Francisco:
-
 🌤 Tonight:
 Temperature: 53°F
 Wind: 6 to 14 mph W

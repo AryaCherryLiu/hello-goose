@@ -1,0 +1,26 @@
+# San Francisco Weather Forecast
+
+🌤 **Tonight:**
+- Temperature: 53°F
+- Wind: 6 to 14 mph W
+- Forecast: Mostly cloudy, with a low around 53. West wind 6 to 14 mph, with gusts as high as 23 mph.
+
+🌤 **Memorial Day:**
+- Temperature: 65°F
+- Wind: 6 to 14 mph W
+- Forecast: Sunny. High near 65, with temperatures falling to around 63 in the afternoon. West wind 6 to 14 mph, with gusts as high as 22 mph.
+
+🌤 **Monday Night:**
+- Temperature: 51°F
+- Wind: 3 to 14 mph WSW
+- Forecast: Mostly clear, with a low around 51. West southwest wind 3 to 14 mph, with gusts as high as 21 mph.
+
+🌤 **Tuesday:**
+- Temperature: 67°F
+- Wind: 3 to 10 mph SW
+- Forecast: Sunny, with a high near 67. Southwest wind 3 to 10 mph.
+
+🌤 **Tuesday Night:**
+- Temperature: 52°F
+- Wind: 5 to 10 mph WSW
+- Forecast: Partly cloudy, with a low around 52. West southwest wind 5 to 10 mph.
